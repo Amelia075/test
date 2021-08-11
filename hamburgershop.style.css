@@ -1,0 +1,5 @@
+.bg-img {
+  background-image: url("restaurant-unsplash.jpg");
+  background-size: cover;
+  background-position: center 70%;
+}
